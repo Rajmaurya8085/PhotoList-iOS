@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "25BDA6BB-200E-4643-9837-4612D2FF9CDC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D49DFAD-1EE4-4244-99CD-18A3BBE097FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "parseJsonModel(data:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67726A50-016A-4ADA-AD88-217CDB4EF886"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "parseJsonModel(data:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F3EA57A-9344-451F-A7F5-35C595287EBA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "parseJsonModel(data:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7868B461-1051-41C3-BB50-6A443D4FE165"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "parseJsonModel(data:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7868B461-1051-41C3-BB50-6A443D4FE165 - 21744f686565d001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Wynk_iOS_Assignment.PhotoListViewModel.parseJsonModel&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(data: Combine.AnyPublisher&lt;A, Swift.Error&gt;, callback: (A) -&gt; ()) -&gt; ()"
+                  moduleName = "Wynk_iOS_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Documents/LearningProject/Wynk_iOS_Assignment/Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "7868B461-1051-41C3-BB50-6A443D4FE165 - 21744f686565d001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Wynk_iOS_Assignment.PhotoListViewModel.parseJsonModel&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(data: Combine.AnyPublisher&lt;A, Swift.Error&gt;, callback: (A) -&gt; ()) -&gt; ()"
+                  moduleName = "Wynk_iOS_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Documents/LearningProject/Wynk_iOS_Assignment/Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "139">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0429C25-EB68-4CE6-8FBC-5F72DC55F432"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "parseJsonModel(data:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9173A956-3DA1-4273-8CC1-1560C57F38AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "loadImage(for:size:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9173A956-3DA1-4273-8CC1-1560C57F38AF - f0d02f9e35882e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wynk_iOS_Assignment.PhotoListViewModel.loadImage(for: Wynk_iOS_Assignment.Photo, size: ImageCache.ImageSize) -&gt; Combine.AnyPublisher&lt;Swift.Optional&lt;__C.UIImage&gt;, Swift.Never&gt;"
+                  moduleName = "Wynk_iOS_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Documents/LearningProject/Wynk_iOS_Assignment/Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "285">
+               </Location>
+               <Location
+                  uuid = "9173A956-3DA1-4273-8CC1-1560C57F38AF - 3da7fac22aaa29ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Combine.Just&lt;Swift.Optional&lt;Swift.String&gt;&gt; in Wynk_iOS_Assignment.PhotoListViewModel.loadImage(for: Wynk_iOS_Assignment.Photo, size: ImageCache.ImageSize) -&gt; Combine.AnyPublisher&lt;Swift.Optional&lt;__C.UIImage&gt;, Swift.Never&gt;"
+                  moduleName = "Wynk_iOS_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Documents/LearningProject/Wynk_iOS_Assignment/Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5782F2EC-5AE0-4E64-81E0-A2ED1A95A2EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "loadImage(for:size:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6D409D9-9AEE-4683-B152-8AC34138647B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "loadImage(for:size:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61DAA65E-76FE-4DAF-9D5A-F98ED38A143B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_AssignmentTests/Wynk_iOS_AssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "testImageDownload()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F09A7E1B-1581-4CDB-9E54-B407C97D9420"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "loadImage(for:size:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F09A7E1B-1581-4CDB-9E54-B407C97D9420 - f0d02f9e35882e71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wynk_iOS_Assignment.PhotoListViewModel.loadImage(for: Wynk_iOS_Assignment.Photo, size: ImageCache.ImageSize) -&gt; Combine.AnyPublisher&lt;Swift.Optional&lt;__C.UIImage&gt;, Swift.Never&gt;"
+                  moduleName = "Wynk_iOS_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Documents/LearningProject/Wynk_iOS_Assignment/Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "478">
+               </Location>
+               <Location
+                  uuid = "F09A7E1B-1581-4CDB-9E54-B407C97D9420 - aba5ee86e5d0704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Optional&lt;__C.UIImage&gt;, Swift.Never&gt; in Wynk_iOS_Assignment.PhotoListViewModel.loadImage(for: Wynk_iOS_Assignment.Photo, size: ImageCache.ImageSize) -&gt; Combine.AnyPublisher&lt;Swift.Optional&lt;__C.UIImage&gt;, Swift.Never&gt;"
+                  moduleName = "Wynk_iOS_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Documents/LearningProject/Wynk_iOS_Assignment/Wynk_iOS_Assignment/ViewControllers/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
